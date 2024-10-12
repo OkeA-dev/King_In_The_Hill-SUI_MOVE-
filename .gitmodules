@@ -1,0 +1,6 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "AfriSeed/lib/forge-std"]
+	path = AfriSeed/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
