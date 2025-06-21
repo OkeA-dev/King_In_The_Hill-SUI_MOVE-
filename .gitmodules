@@ -4,3 +4,63 @@
 [submodule "AfriSeed/lib/forge-std"]
 	path = AfriSeed/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "AfriContract/afriseed1/lib/forge-std"]
+	path = AfriContract/afriseed1/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std.git
+[submodule "RebuildProtocol/ForkGamma/lib/openzeppelin-contracts"]
+	path = RebuildProtocol/ForkGamma/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "LiveAudit/cantina/metropolis protocol/lib/forge-std"]
+	path = LiveAudit/cantina/metropolis protocol/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "LiveAudit/cantina/metropolis protocol/lib/joe-v2"]
+	path = LiveAudit/cantina/metropolis protocol/lib/joe-v2
+	url = https://github.com/traderjoe-xyz/joe-v2
+[submodule "LiveAudit/cantina/metropolis protocol/lib/openzeppelin-contracts-upgradeable"]
+	path = LiveAudit/cantina/metropolis protocol/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "LiveAudit/cantina/metropolis protocol/lib/openzeppelin-contracts"]
+	path = LiveAudit/cantina/metropolis protocol/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "LiveAudit/cantina/metropolis protocol/lib/joe-v2-periphery"]
+	path = LiveAudit/cantina/metropolis protocol/lib/joe-v2-periphery
+	url = https://github.com/traderjoe-xyz/joe-v2-periphery
+[submodule "LiveAudit/cantina/metropolis protocol/lib/clones-with-immutable-args"]
+	path = LiveAudit/cantina/metropolis protocol/lib/clones-with-immutable-args
+	url = https://github.com/wighawag/clones-with-immutable-args
+[submodule "LiveAudit/metropolis protocol/lib/forge-std"]
+	path = LiveAudit/metropolis protocol/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "LiveAudit/metropolis protocol/lib/openzeppelin-contracts"]
+	path = LiveAudit/metropolis protocol/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "LiveAudit/metropolis protocol/lib/joe-v2"]
+	path = LiveAudit/metropolis protocol/lib/joe-v2
+	url = https://github.com/traderjoe-xyz/joe-v2
+[submodule "LiveAudit/metropolis protocol/lib/joe-v2-periphery"]
+	path = LiveAudit/metropolis protocol/lib/joe-v2-periphery
+	url = https://github.com/traderjoe-xyz/joe-v2-periphery
+[submodule "LiveAudit/metropolis protocol/lib/clones-with-immutable-args"]
+	path = LiveAudit/metropolis protocol/lib/clones-with-immutable-args
+	url = https://github.com/wighawag/clones-with-immutable-args
+[submodule "LiveAudit/metropolis protocol/lib/openzeppelin-contracts-upgradeable"]
+	path = LiveAudit/metropolis protocol/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "MetaTransaction/metaTransaction/lib/forge-std"]
+	path = MetaTransaction/metaTransaction/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "MetaTransaction/metaTransaction/lib/openzeppelin-contracts"]
+	path = MetaTransaction/metaTransaction/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "masterTestSuite/Erc20TestSuit/lib/forge-std"]
+	path = masterTestSuite/Erc20TestSuit/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "masterTestSuite/Erc20TestSuit/lib/openzeppelin-contracts"]
+	path = masterTestSuite/Erc20TestSuit/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "masterTestSuite/ERC721TestSuite/lib/forge-std"]
+	path = masterTestSuite/ERC721TestSuite/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "masterTestSuite/ERC721TestSuite/lib/openzeppelin-contracts"]
+	path = masterTestSuite/ERC721TestSuite/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
