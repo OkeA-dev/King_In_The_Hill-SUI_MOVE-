@@ -64,3 +64,27 @@
 [submodule "masterTestSuite/ERC721TestSuite/lib/openzeppelin-contracts"]
 	path = masterTestSuite/ERC721TestSuite/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "LiveAudit/cantina/Aera V3/lib/openzeppelin-contracts"]
+	path = LiveAudit/cantina/Aera V3/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "LiveAudit/cantina/Aera V3/lib/forge-std"]
+	path = LiveAudit/cantina/Aera V3/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Cohort-V-CTF"]
+	path = Cohort-V-CTF
+	url = https://github.com/GuildAudits/Cohort-V-CTF
+[submodule "shadowAudit/Mystic/bundler3/lib/permit2"]
+	path = shadowAudit/Mystic/bundler3/lib/permit2
+	url = https://github.com/Uniswap/permit2
+[submodule "shadowAudit/Mystic/bundler3/lib/forge-std"]
+	path = shadowAudit/Mystic/bundler3/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "shadowAudit/Mystic/bundler3/lib/openzeppelin-contracts"]
+	path = shadowAudit/Mystic/bundler3/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "shadowAudit/Mystic/bundler3/lib/morpho-blue"]
+	path = shadowAudit/Mystic/bundler3/lib/morpho-blue
+	url = https://github.com/morpho-org/morpho-blue
+[submodule "GuildAudit/BugContract/lib/forge-std"]
+	path = GuildAudit/BugContract/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
