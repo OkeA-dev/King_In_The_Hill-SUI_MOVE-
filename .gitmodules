@@ -88,3 +88,24 @@
 [submodule "GuildAudit/BugContract/lib/forge-std"]
 	path = GuildAudit/BugContract/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "GuildAudit/Fuzztest/lib/forge-std"]
+	path = GuildAudit/Fuzztest/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "GuildAudit/playGround/FuzzPlay/proposal/lib/forge-std"]
+	path = GuildAudit/playGround/FuzzPlay/proposal/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "GuildAudit/playGround/FuzzPlay/proposal/lib/openzeppelin-contracts"]
+	path = GuildAudit/playGround/FuzzPlay/proposal/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "GuildAudit/playGround/FuzzPlay/proposal/lib/chimera"]
+	path = GuildAudit/playGround/FuzzPlay/proposal/lib/chimera
+	url = https://github.com/Recon-Fuzz/chimera
+[submodule "GuildAudit/playGround/FuzzPlay/VotingNftForFuzz/lib/forge-std"]
+	path = GuildAudit/playGround/FuzzPlay/VotingNftForFuzz/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "GuildAudit/playGround/FuzzPlay/VotingNftForFuzz/lib/openzeppelin-contracts"]
+	path = GuildAudit/playGround/FuzzPlay/VotingNftForFuzz/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "GuildAudit/WieldERCs/ERC20wield/lib/forge-std"]
+	path = GuildAudit/WieldERCs/ERC20wield/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
